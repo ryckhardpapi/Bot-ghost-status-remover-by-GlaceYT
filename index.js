@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["<a:Moneybag:1264956063690653787> Chasing the bag" ,"Watching Essential Service"];
+const statusMessages = ["<a:Moneybag:1264956063690653787> Chasing the bag", "Watching Essential Service"];
 
 
 let currentIndex = 0;
