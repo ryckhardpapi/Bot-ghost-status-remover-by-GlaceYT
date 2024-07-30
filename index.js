@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Essential Service <:Box:1266204804632412212> "];
+const statusMessages = ["Watching Essential Service"];
 
 
 let currentIndex = 0;
